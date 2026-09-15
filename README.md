@@ -1,16 +1,18 @@
-## Hi there 👋
+I work on mathematical and computational methods for understanding, predicting, and designing **complex systems**, with emphasis on nonlinearity, uncertainty, and data-driven modeling.
 
-<!--
-**americocunhajr/americocunhajr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔬 Research Interests
 
-Here are some ideas to get you started:
+🌀 Nonlinear Dynamics · 🎲 Uncertainty Quantification · 🖥️ Computational Mechanics · 🤖 Artificial Intelligence · 📊 Machine Learning · 🎯 Optimization · 〰️ Metamaterials · 🔋 Energy Harvesting · 🦠 Mathematical Epidemiology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Open Computational Science
+
+Here I share **research software, numerical experiments, reproducible codes, and teaching material** developed in connection with my research and collaborations.
+
+## 🌐 Links
+
+* 🌎 [Personal website](https://americocunha.org)
+* 📚 [Lattes CV](http://lattes.cnpq.br/5659403706694491)
+
+---
+
+⭐ *Turning complexity into understanding through mathematics and computation.*
